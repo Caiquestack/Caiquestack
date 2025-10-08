@@ -1,6 +1,6 @@
 # 💻🩻 Caique Fernandes
 
-**`Desenvolvedor Front end`**
+**`Desenvolvedor Front End`**
 Olá, me chamo Caique, tenho 22 anos e sou morador de campinas.
 Concluí meu ensino médio na escola São Nicolau de Flue, cursei na Microcamp um curso técnico na área de informática, onde comecei a gostar da área de TI. Atualmente estou cursando um curso técnico de desenvolvedor front-end no Senai. Amo essa área e me identifico com as tecnologias que estudo atualmente.
 
