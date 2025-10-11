@@ -25,6 +25,7 @@ Concluí meu ensino médio na escola São Nicolau de Flue, cursei na Microcamp u
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 <br/>
+<img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDV2emE2cHc1Ymt6N2h6eGF2bTI4MGdwN3BjOHZtaTUzcXRqa2xhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 ### 📊 Estatísticas
 
