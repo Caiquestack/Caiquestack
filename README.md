@@ -57,18 +57,19 @@ Concluí meu ensino médio na escola São Nicolau de Flue, cursei na Microcamp u
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiquestack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquestack&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Caiquestack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Caiquestack&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📫 Vamos nos conectar?
 <p align="left">
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:caique.stack@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
+  <a href="https://linkedin.com/in/caiquestack">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
